@@ -6,7 +6,7 @@ import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { ChevronLeft, Upload, User, Truck, MapPin, Phone, Mail, Building, Shield } from "lucide-react";
+import { ChevronLeft, Upload, User, Truck, MapPin, Phone, Mail, Building, Shield, MessageCircle } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Profile = () => {
